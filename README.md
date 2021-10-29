@@ -2,7 +2,7 @@
 
 
 
-** Open N_file.ipynb and see every single line of code is commented 
+** Open trail1.py and see every single line of code is commented 
 
 ![Predictions](img.png)
 
