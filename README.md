@@ -1,5 +1,9 @@
 # Multi-classification Sentiment Analysis with Bert
 
+
+
+** Open N_file.ipynb and see every single line of code is commented 
+
 ![Predictions](img.png)
 
 ## Description about the project
